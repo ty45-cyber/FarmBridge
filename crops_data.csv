@@ -1,0 +1,501 @@
+id,farmer_id,farmer_name,crop_name,category,quantity_kg,price_per_kg,location,harvest_date,quality_grade,organic,available,created_at
+1,39,Margaret Wairimu,Rice,Grains,601,110.48,Machakos,2025-11-07T22:26:09.130923,Grade B,False,True,2025-11-16T22:26:09.130923
+2,10,Joseph Karanja,Green Grams,Legumes,610,121.48,Kakamega,2025-11-16T22:26:09.130923,Grade B,False,True,2025-11-13T22:26:09.130923
+3,8,Sarah Njeri,Passion Fruits,Fruits,619,388.63,Nakuru,2025-11-08T22:26:09.130923,Grade B,False,True,2025-11-12T22:26:09.130923
+4,53,James Mwangi,Potatoes,Vegetables,55,73.43,Kakamega,2025-11-17T22:26:09.130923,Premium,False,True,2025-11-11T22:26:09.130923
+5,70,Margaret Wairimu,Potatoes,Vegetables,951,62.66,Meru,2025-11-04T22:26:09.130923,Grade B,True,True,2025-11-16T22:26:09.130923
+6,25,Esther Chepkemoi,Wheat,Grains,98,88.52,Migori,2025-11-15T22:26:09.130923,Standard,False,True,2025-11-16T22:26:09.130923
+7,25,Esther Chepkemoi,Sorghum,Grains,285,66.3,Migori,2025-11-05T22:26:09.130923,Grade B,True,True,2025-11-16T22:26:09.130923
+8,83,Catherine Auma,Beans,Legumes,203,160.07,Nakuru,2025-11-04T22:26:09.130923,Grade A,True,True,2025-11-17T22:26:09.131427
+9,64,David Kiprop,Cowpeas,Legumes,321,101.48,Migori,2025-11-11T22:26:09.131427,Standard,False,True,2025-11-12T22:26:09.131513
+10,93,James Mwangi,Pineapples,Fruits,815,162.31,Garissa,2025-11-13T22:26:09.131513,Standard,False,True,2025-11-13T22:26:09.131513
+11,73,Michael Otieno,Onions,Vegetables,31,90.87,Kitale,2025-11-03T22:26:09.131513,Grade B,False,True,2025-11-16T22:26:09.131513
+12,71,John Kamau,Passion Fruits,Fruits,338,204.65,Garissa,2025-10-27T22:26:09.131513,Standard,False,True,2025-11-10T22:26:09.131513
+13,61,Esther Chepkemoi,Sorghum,Grains,336,63.69,Naivasha,2025-10-25T22:26:09.131513,Grade A,True,True,2025-11-12T22:26:09.131513
+14,53,James Mwangi,Potatoes,Vegetables,770,66.45,Kakamega,2025-10-23T22:26:09.131513,Grade A,True,True,2025-11-12T22:26:09.131513
+15,56,Lucy Wambui,Spinach,Vegetables,891,74.85,Thika,2025-11-17T22:26:09.131513,Grade A,False,True,2025-11-10T22:26:09.131513
+16,14,Grace Akinyi,Cabbage,Vegetables,272,36.06,Homa Bay,2025-10-30T22:26:09.131513,Premium,False,True,2025-11-15T22:26:09.131513
+17,23,Peter Ochieng,Oranges,Fruits,991,112.42,Embu,2025-11-15T22:26:09.131513,Grade A,False,True,2025-11-10T22:26:09.131513
+18,73,Michael Otieno,Rice,Grains,424,127.7,Kitale,2025-10-30T22:26:09.131513,Standard,True,True,2025-11-14T22:26:09.131513
+19,66,John Kamau,Watermelons,Fruits,31,31.71,Malindi,2025-10-22T22:26:09.131513,Standard,False,True,2025-11-11T22:26:09.131513
+20,52,Michael Otieno,Avocados,Fruits,387,216.17,Nyeri,2025-11-11T22:26:09.131513,Grade B,True,True,2025-11-14T22:26:09.131513
+21,80,James Mwangi,Millet,Grains,428,92.56,Kakamega,2025-10-28T22:26:09.131513,Grade B,False,True,2025-11-11T22:26:09.131513
+22,41,John Kamau,Spinach,Vegetables,467,56.57,Meru,2025-11-04T22:26:09.131513,Standard,True,True,2025-11-12T22:26:09.131513
+23,100,John Kamau,Peas,Legumes,811,144.96,Naivasha,2025-10-21T22:26:09.131513,Grade B,True,True,2025-11-10T22:26:09.131513
+24,55,Agnes Nyong'o,Sorghum,Grains,769,37.16,Eldoret,2025-11-15T22:26:09.132019,Grade B,False,True,2025-11-10T22:26:09.132019
+25,2,Joseph Karanja,Pineapples,Fruits,725,170.81,Meru,2025-10-19T22:26:09.132019,Standard,True,True,2025-11-11T22:26:09.132019
+26,89,Paul Cheruiyot,Maize,Grains,114,72.08,Embu,2025-10-25T22:26:09.132019,Grade A,False,True,2025-11-17T22:26:09.132230
+27,89,Paul Cheruiyot,Peas,Legumes,731,157.88,Embu,2025-11-12T22:26:09.132230,Premium,True,True,2025-11-15T22:26:09.132230
+28,8,Sarah Njeri,Bananas,Fruits,368,77.67,Nakuru,2025-11-06T22:26:09.132230,Standard,True,True,2025-11-12T22:26:09.132230
+29,76,Margaret Wairimu,Pineapples,Fruits,655,123.85,Kericho,2025-11-09T22:26:09.132230,Premium,False,True,2025-11-17T22:26:09.132230
+30,18,John Kamau,Maize,Grains,221,57.24,Meru,2025-11-07T22:26:09.132230,Premium,False,True,2025-11-10T22:26:09.132230
+31,5,Jane Muthoni,Bananas,Fruits,749,74.98,Homa Bay,2025-11-01T22:26:09.132230,Standard,False,True,2025-11-16T22:26:09.132230
+32,98,Mary Wanjiku,Bananas,Fruits,946,70.57,Thika,2025-11-12T22:26:09.132230,Premium,False,True,2025-11-11T22:26:09.132230
+33,41,John Kamau,Oranges,Fruits,358,104.44,Meru,2025-10-25T22:26:09.132230,Standard,True,True,2025-11-12T22:26:09.132230
+34,83,Catherine Auma,Sorghum,Grains,485,61.96,Nakuru,2025-11-17T22:26:09.132230,Grade B,True,True,2025-11-13T22:26:09.132230
+35,88,Agnes Nyong'o,Millet,Grains,545,72.86,Kakamega,2025-11-08T22:26:09.132230,Grade B,False,True,2025-11-12T22:26:09.132734
+36,24,Agnes Nyong'o,Spinach,Vegetables,976,69.32,Malindi,2025-10-18T22:26:09.132734,Grade A,False,True,2025-11-16T22:26:09.132734
+37,93,James Mwangi,Peas,Legumes,859,156.25,Garissa,2025-10-22T22:26:09.132734,Grade B,False,True,2025-11-10T22:26:09.132860
+38,66,John Kamau,Maize,Grains,478,65.65,Malindi,2025-10-23T22:26:09.132860,Grade A,True,True,2025-11-14T22:26:09.132860
+39,34,Esther Chepkemoi,Groundnuts,Legumes,336,284.26,Machakos,2025-10-21T22:26:09.132860,Grade A,False,True,2025-11-13T22:26:09.132860
+40,69,John Kamau,Maize,Grains,664,46.44,Meru,2025-10-26T22:26:09.132860,Standard,True,True,2025-11-16T22:26:09.132860
+41,71,John Kamau,Mangoes,Fruits,980,185.73,Garissa,2025-11-06T22:26:09.132860,Premium,False,True,2025-11-11T22:26:09.132860
+42,7,Francis Omondi,Peas,Legumes,470,179.83,Nakuru,2025-10-27T22:26:09.132860,Standard,True,True,2025-11-13T22:26:09.132860
+43,74,Francis Omondi,Millet,Grains,734,117.87,Nyeri,2025-11-04T22:26:09.132860,Grade A,True,True,2025-11-15T22:26:09.132860
+44,38,Jane Muthoni,Onions,Vegetables,547,68.09,Nyeri,2025-10-21T22:26:09.132860,Premium,True,True,2025-11-13T22:26:09.132860
+45,24,Agnes Nyong'o,Cabbage,Vegetables,186,33.01,Malindi,2025-10-21T22:26:09.132860,Grade B,True,True,2025-11-13T22:26:09.132860
+46,84,Paul Cheruiyot,Peas,Legumes,646,210.54,Kericho,2025-10-26T22:26:09.132860,Grade A,False,True,2025-11-14T22:26:09.132860
+47,60,Margaret Wairimu,Groundnuts,Legumes,127,194.48,Naivasha,2025-11-02T22:26:09.133368,Grade B,True,True,2025-11-10T22:26:09.133457
+48,13,Agnes Nyong'o,Potatoes,Vegetables,792,58.12,Kericho,2025-10-25T22:26:09.133457,Standard,True,True,2025-11-15T22:26:09.133457
+49,44,Lucy Wambui,Peas,Legumes,700,220.98,Nairobi,2025-10-22T22:26:09.133457,Standard,True,True,2025-11-12T22:26:09.133457
+50,37,Catherine Auma,Mangoes,Fruits,967,96.59,Malindi,2025-10-28T22:26:09.133457,Standard,True,True,2025-11-16T22:26:09.133457
+51,56,Lucy Wambui,Bananas,Fruits,438,68.72,Thika,2025-10-21T22:26:09.133457,Grade B,True,True,2025-11-12T22:26:09.133457
+52,54,John Kamau,Rice,Grains,490,132.64,Kisumu,2025-10-19T22:26:09.133457,Grade A,True,True,2025-11-12T22:26:09.133457
+53,60,Margaret Wairimu,Cowpeas,Legumes,771,114.27,Naivasha,2025-10-29T22:26:09.133457,Grade A,True,True,2025-11-12T22:26:09.133457
+54,45,Michael Otieno,Carrots,Vegetables,736,86.84,Machakos,2025-10-18T22:26:09.133457,Grade B,True,True,2025-11-11T22:26:09.133457
+55,76,Margaret Wairimu,Passion Fruits,Fruits,190,215.1,Kericho,2025-11-11T22:26:09.133457,Grade A,False,True,2025-11-15T22:26:09.133457
+56,52,Michael Otieno,Maize,Grains,280,75.94,Nyeri,2025-10-26T22:26:09.133457,Standard,False,True,2025-11-12T22:26:09.133457
+57,98,Mary Wanjiku,Passion Fruits,Fruits,33,212.92,Thika,2025-11-15T22:26:09.133457,Standard,False,True,2025-11-12T22:26:09.133457
+58,49,Catherine Auma,Groundnuts,Legumes,695,287.29,Voi,2025-10-26T22:26:09.133457,Grade B,True,True,2025-11-15T22:26:09.133457
+59,76,Margaret Wairimu,Tomatoes,Vegetables,578,106.69,Kericho,2025-10-28T22:26:09.133457,Grade B,False,True,2025-11-11T22:26:09.133457
+60,31,Catherine Auma,Onions,Vegetables,430,65.97,Thika,2025-10-22T22:26:09.133457,Standard,True,True,2025-11-12T22:26:09.133962
+61,55,Agnes Nyong'o,Peas,Legumes,179,135.07,Eldoret,2025-11-17T22:26:09.133962,Grade B,False,True,2025-11-14T22:26:09.133962
+62,68,Grace Akinyi,Rice,Grains,693,149.15,Bungoma,2025-11-01T22:26:09.134054,Grade B,False,True,2025-11-11T22:26:09.134054
+63,4,Mary Wanjiku,Spinach,Vegetables,327,55.42,Nyeri,2025-10-24T22:26:09.134054,Grade B,True,True,2025-11-12T22:26:09.134054
+64,60,Margaret Wairimu,Beans,Legumes,642,117.61,Naivasha,2025-10-28T22:26:09.134054,Premium,True,True,2025-11-14T22:26:09.134054
+65,69,John Kamau,Cabbage,Vegetables,827,56.37,Meru,2025-10-19T22:26:09.134054,Premium,False,True,2025-11-15T22:26:09.134054
+66,87,Samuel Kiprotich,Peas,Legumes,629,145.56,Kitale,2025-10-18T22:26:09.134054,Grade A,False,True,2025-11-16T22:26:09.134054
+67,29,Mary Wanjiku,Green Grams,Legumes,826,199.1,Machakos,2025-10-20T22:26:09.134054,Standard,False,True,2025-11-12T22:26:09.134054
+68,49,Catherine Auma,Carrots,Vegetables,952,75.39,Voi,2025-11-07T22:26:09.134054,Grade B,True,True,2025-11-17T22:26:09.134054
+69,80,James Mwangi,Peas,Legumes,58,149.48,Kakamega,2025-10-25T22:26:09.134054,Premium,True,True,2025-11-17T22:26:09.134054
+70,49,Catherine Auma,Sorghum,Grains,349,67.36,Voi,2025-10-24T22:26:09.134054,Grade B,True,True,2025-11-11T22:26:09.134054
+71,15,David Kiprop,Tomatoes,Vegetables,192,121.47,Bungoma,2025-11-03T22:26:09.134054,Premium,False,True,2025-11-10T22:26:09.134054
+72,90,John Kamau,Rice,Grains,600,80.37,Kakamega,2025-11-09T22:26:09.134054,Grade B,False,True,2025-11-10T22:26:09.134054
+73,24,Agnes Nyong'o,Passion Fruits,Fruits,216,230.75,Malindi,2025-11-04T22:26:09.134054,Grade A,False,True,2025-11-16T22:26:09.134054
+74,52,Michael Otieno,Rice,Grains,601,95.16,Nyeri,2025-11-06T22:26:09.134054,Standard,False,True,2025-11-17T22:26:09.134054
+75,100,John Kamau,Onions,Vegetables,428,87.67,Naivasha,2025-10-25T22:26:09.134054,Standard,False,True,2025-11-14T22:26:09.134054
+76,57,Francis Omondi,Passion Fruits,Fruits,369,369.58,Embu,2025-11-17T22:26:09.134054,Standard,False,True,2025-11-12T22:26:09.134054
+77,37,Catherine Auma,Peas,Legumes,399,193.9,Malindi,2025-11-07T22:26:09.134054,Grade A,True,True,2025-11-17T22:26:09.134054
+78,51,Joseph Karanja,Beans,Legumes,286,196.48,Kitale,2025-10-18T22:26:09.134054,Standard,True,True,2025-11-11T22:26:09.134054
+79,58,Lucy Wambui,Spinach,Vegetables,125,42.79,Kitale,2025-11-07T22:26:09.134054,Grade A,True,True,2025-11-13T22:26:09.134054
+80,55,Agnes Nyong'o,Potatoes,Vegetables,787,57.11,Eldoret,2025-11-17T22:26:09.134054,Grade A,True,True,2025-11-17T22:26:09.134054
+81,75,Agnes Nyong'o,Pineapples,Fruits,686,137.22,Nyeri,2025-10-29T22:26:09.134054,Grade A,True,True,2025-11-10T22:26:09.134054
+82,60,Margaret Wairimu,Tomatoes,Vegetables,879,90.3,Naivasha,2025-10-25T22:26:09.134054,Premium,True,True,2025-11-16T22:26:09.134054
+83,32,Rose Wanjiru,Wheat,Grains,794,70.49,Machakos,2025-11-10T22:26:09.134054,Grade A,True,True,2025-11-12T22:26:09.134054
+84,1,James Mwangi,Passion Fruits,Fruits,80,262.25,Garissa,2025-10-23T22:26:09.134559,Standard,True,True,2025-11-11T22:26:09.134559
+85,70,Margaret Wairimu,Cabbage,Vegetables,22,36.1,Meru,2025-10-25T22:26:09.134559,Premium,True,True,2025-11-13T22:26:09.134559
+86,73,Michael Otieno,Beans,Legumes,990,186.64,Kitale,2025-10-20T22:26:09.134633,Standard,True,True,2025-11-12T22:26:09.134633
+87,35,Grace Akinyi,Sorghum,Grains,445,49.41,Garissa,2025-11-07T22:26:09.134633,Standard,False,True,2025-11-13T22:26:09.134633
+88,13,Agnes Nyong'o,Oranges,Fruits,452,73.64,Kericho,2025-10-26T22:26:09.134633,Grade A,True,True,2025-11-12T22:26:09.134633
+89,92,Esther Chepkemoi,Rice,Grains,325,107.28,Kakamega,2025-11-11T22:26:09.134633,Grade B,True,True,2025-11-14T22:26:09.134633
+90,64,David Kiprop,Onions,Vegetables,528,87.36,Migori,2025-10-30T22:26:09.134633,Standard,False,True,2025-11-13T22:26:09.134633
+91,53,James Mwangi,Mangoes,Fruits,736,180.74,Kakamega,2025-11-11T22:26:09.134633,Standard,False,True,2025-11-14T22:26:09.134633
+92,53,James Mwangi,Beans,Legumes,583,182.66,Kakamega,2025-10-27T22:26:09.134633,Standard,False,True,2025-11-10T22:26:09.134633
+93,55,Agnes Nyong'o,Rice,Grains,904,119.51,Eldoret,2025-10-31T22:26:09.134633,Premium,False,True,2025-11-15T22:26:09.134633
+94,22,Esther Chepkemoi,Kale,Vegetables,723,31.57,Kisumu,2025-10-27T22:26:09.134633,Standard,False,True,2025-11-10T22:26:09.134633
+95,92,Esther Chepkemoi,Kale,Vegetables,181,41.47,Kakamega,2025-11-02T22:26:09.134633,Grade A,True,True,2025-11-11T22:26:09.134633
+96,96,James Mwangi,Peas,Legumes,575,234.52,Bungoma,2025-11-03T22:26:09.134633,Grade B,True,True,2025-11-12T22:26:09.134633
+97,23,Peter Ochieng,Watermelons,Fruits,957,55.57,Embu,2025-10-28T22:26:09.134633,Standard,False,True,2025-11-10T22:26:09.134633
+98,77,Sarah Njeri,Watermelons,Fruits,279,50.85,Mombasa,2025-11-06T22:26:09.134633,Grade B,True,True,2025-11-11T22:26:09.134633
+99,30,Agnes Nyong'o,Groundnuts,Legumes,717,196.66,Garissa,2025-10-29T22:26:09.134633,Grade A,True,True,2025-11-13T22:26:09.134633
+100,14,Grace Akinyi,Kale,Vegetables,58,41.52,Homa Bay,2025-10-26T22:26:09.134633,Grade A,True,True,2025-11-12T22:26:09.135138
+101,53,James Mwangi,Peas,Legumes,185,178.25,Kakamega,2025-10-19T22:26:09.135138,Grade B,False,True,2025-11-12T22:26:09.135138
+102,28,James Mwangi,Oranges,Fruits,629,80.05,Meru,2025-10-31T22:26:09.135210,Grade A,False,True,2025-11-11T22:26:09.135210
+103,83,Catherine Auma,Carrots,Vegetables,822,82.37,Nakuru,2025-11-06T22:26:09.135210,Premium,True,True,2025-11-10T22:26:09.135210
+104,23,Peter Ochieng,Spinach,Vegetables,588,67.81,Embu,2025-10-21T22:26:09.135210,Standard,True,True,2025-11-13T22:26:09.135210
+105,90,John Kamau,Peas,Legumes,909,151.25,Kakamega,2025-10-18T22:26:09.135210,Standard,False,True,2025-11-11T22:26:09.135210
+106,11,Rose Wanjiru,Bananas,Fruits,966,86.8,Garissa,2025-10-24T22:26:09.135210,Grade A,True,True,2025-11-16T22:26:09.135210
+107,85,Francis Omondi,Beans,Legumes,231,122.56,Garissa,2025-11-10T22:26:09.135210,Standard,True,True,2025-11-14T22:26:09.135210
+108,74,Francis Omondi,Millet,Grains,437,118.57,Nyeri,2025-10-28T22:26:09.135210,Grade B,False,True,2025-11-15T22:26:09.135210
+109,38,Jane Muthoni,Mangoes,Fruits,233,190.9,Nyeri,2025-11-15T22:26:09.135210,Premium,False,True,2025-11-15T22:26:09.135210
+110,77,Sarah Njeri,Pineapples,Fruits,655,102.51,Mombasa,2025-11-11T22:26:09.135210,Grade B,True,True,2025-11-17T22:26:09.135210
+111,37,Catherine Auma,Mangoes,Fruits,199,113.79,Malindi,2025-10-23T22:26:09.135210,Standard,False,True,2025-11-17T22:26:09.135210
+112,80,James Mwangi,Bananas,Fruits,323,70.08,Kakamega,2025-10-31T22:26:09.135210,Premium,True,True,2025-11-12T22:26:09.135210
+113,30,Agnes Nyong'o,Beans,Legumes,899,198.19,Garissa,2025-11-14T22:26:09.136950,Premium,False,True,2025-11-16T22:26:09.136950
+114,83,Catherine Auma,Carrots,Vegetables,202,75.79,Nakuru,2025-10-21T22:26:09.136950,Premium,False,True,2025-11-17T22:26:09.136950
+115,16,Michael Otieno,Peas,Legumes,302,191.87,Migori,2025-11-07T22:26:09.136950,Grade A,True,True,2025-11-10T22:26:09.136950
+116,62,Daniel Koech,Onions,Vegetables,37,74.81,Eldoret,2025-11-13T22:26:09.136950,Premium,False,True,2025-11-13T22:26:09.136950
+117,70,Margaret Wairimu,Oranges,Fruits,473,67.53,Meru,2025-10-20T22:26:09.136950,Grade B,False,True,2025-11-14T22:26:09.136950
+118,68,Grace Akinyi,Peas,Legumes,367,123.71,Bungoma,2025-11-05T22:26:09.136950,Grade A,True,True,2025-11-13T22:26:09.136950
+119,90,John Kamau,Mangoes,Fruits,709,173.75,Kakamega,2025-10-24T22:26:09.136950,Grade B,True,True,2025-11-16T22:26:09.136950
+120,59,Catherine Auma,Kale,Vegetables,936,27.49,Nakuru,2025-11-08T22:26:09.136950,Grade B,True,True,2025-11-12T22:26:09.136950
+121,17,Samuel Kiprotich,Spinach,Vegetables,102,70.64,Garissa,2025-11-06T22:26:09.136950,Grade A,False,True,2025-11-14T22:26:09.136950
+122,71,John Kamau,Potatoes,Vegetables,690,59.32,Garissa,2025-10-30T22:26:09.136950,Premium,False,True,2025-11-10T22:26:09.136950
+123,30,Agnes Nyong'o,Cowpeas,Legumes,790,155.72,Garissa,2025-10-23T22:26:09.136950,Grade A,True,True,2025-11-13T22:26:09.136950
+124,89,Paul Cheruiyot,Green Grams,Legumes,881,209.75,Embu,2025-10-27T22:26:09.137455,Grade B,True,True,2025-11-16T22:26:09.137455
+125,32,Rose Wanjiru,Avocados,Fruits,405,282.78,Machakos,2025-10-26T22:26:09.137455,Standard,True,True,2025-11-11T22:26:09.137455
+126,30,Agnes Nyong'o,Watermelons,Fruits,464,52.72,Garissa,2025-10-30T22:26:09.137531,Premium,False,True,2025-11-12T22:26:09.137531
+127,29,Mary Wanjiku,Cowpeas,Legumes,195,105.96,Machakos,2025-11-02T22:26:09.137531,Grade A,False,True,2025-11-14T22:26:09.137531
+128,31,Catherine Auma,Groundnuts,Legumes,858,215.08,Thika,2025-10-22T22:26:09.137531,Grade A,False,True,2025-11-13T22:26:09.137531
+129,58,Lucy Wambui,Kale,Vegetables,986,23.07,Kitale,2025-11-10T22:26:09.137531,Standard,False,True,2025-11-10T22:26:09.137531
+130,85,Francis Omondi,Tomatoes,Vegetables,888,134.07,Garissa,2025-10-21T22:26:09.137531,Grade A,False,True,2025-11-17T22:26:09.137531
+131,56,Lucy Wambui,Avocados,Fruits,126,248.2,Thika,2025-10-23T22:26:09.137531,Premium,False,True,2025-11-11T22:26:09.137531
+132,6,James Mwangi,Sorghum,Grains,826,49.41,Kakamega,2025-11-12T22:26:09.137531,Premium,True,True,2025-11-17T22:26:09.137531
+133,52,Michael Otieno,Spinach,Vegetables,167,52.57,Nyeri,2025-11-07T22:26:09.137531,Premium,True,True,2025-11-12T22:26:09.137531
+134,76,Margaret Wairimu,Sorghum,Grains,936,42.3,Kericho,2025-10-21T22:26:09.137531,Standard,False,True,2025-11-16T22:26:09.137531
+135,78,Jane Muthoni,Groundnuts,Legumes,802,294.03,Nairobi,2025-10-19T22:26:09.137531,Standard,True,True,2025-11-13T22:26:09.137531
+136,85,Francis Omondi,Kale,Vegetables,64,30.42,Garissa,2025-10-22T22:26:09.137531,Grade A,False,True,2025-11-13T22:26:09.137531
+137,24,Agnes Nyong'o,Beans,Legumes,976,115.86,Malindi,2025-10-24T22:26:09.137531,Grade A,False,True,2025-11-16T22:26:09.137531
+138,95,Margaret Wairimu,Cowpeas,Legumes,933,148.53,Kericho,2025-11-14T22:26:09.137531,Standard,False,True,2025-11-17T22:26:09.137531
+139,59,Catherine Auma,Beans,Legumes,613,189.31,Nakuru,2025-10-26T22:26:09.137531,Premium,True,True,2025-11-15T22:26:09.137531
+140,5,Jane Muthoni,Cabbage,Vegetables,33,45.87,Homa Bay,2025-10-30T22:26:09.137531,Grade B,True,True,2025-11-16T22:26:09.137531
+141,97,Samuel Kiprotich,Spinach,Vegetables,848,48.81,Kakamega,2025-11-05T22:26:09.138036,Premium,True,True,2025-11-17T22:26:09.138036
+142,95,Margaret Wairimu,Cowpeas,Legumes,400,154.61,Kericho,2025-11-11T22:26:09.138036,Grade A,True,True,2025-11-10T22:26:09.138102
+143,13,Agnes Nyong'o,Pineapples,Fruits,21,165.44,Kericho,2025-10-22T22:26:09.138102,Grade A,True,True,2025-11-12T22:26:09.138102
+144,47,Agnes Nyong'o,Wheat,Grains,46,65.97,Kericho,2025-10-21T22:26:09.138102,Grade B,True,True,2025-11-13T22:26:09.138102
+145,6,James Mwangi,Carrots,Vegetables,823,65.89,Kakamega,2025-11-13T22:26:09.138102,Grade B,False,True,2025-11-16T22:26:09.138102
+146,48,Daniel Koech,Spinach,Vegetables,907,78.66,Meru,2025-10-21T22:26:09.138102,Standard,True,True,2025-11-13T22:26:09.138102
+147,4,Mary Wanjiku,Peas,Legumes,173,188.69,Nyeri,2025-10-28T22:26:09.138102,Premium,False,True,2025-11-12T22:26:09.138102
+148,38,Jane Muthoni,Cabbage,Vegetables,779,52.96,Nyeri,2025-10-21T22:26:09.138102,Standard,False,True,2025-11-14T22:26:09.138102
+149,29,Mary Wanjiku,Groundnuts,Legumes,410,168.49,Machakos,2025-11-04T22:26:09.138102,Premium,True,True,2025-11-15T22:26:09.138102
+150,52,Michael Otieno,Oranges,Fruits,529,105.74,Nyeri,2025-10-25T22:26:09.138102,Premium,False,True,2025-11-13T22:26:09.138102
+151,69,John Kamau,Cowpeas,Legumes,492,86.14,Meru,2025-10-29T22:26:09.138102,Premium,False,True,2025-11-16T22:26:09.138102
+152,90,John Kamau,Spinach,Vegetables,576,60.66,Kakamega,2025-10-23T22:26:09.138102,Standard,True,True,2025-11-11T22:26:09.138102
+153,83,Catherine Auma,Tomatoes,Vegetables,652,84.49,Nakuru,2025-11-01T22:26:09.138102,Grade B,True,True,2025-11-11T22:26:09.138102
+154,55,Agnes Nyong'o,Kale,Vegetables,392,21.32,Eldoret,2025-10-25T22:26:09.138102,Grade A,True,True,2025-11-11T22:26:09.138102
+155,96,James Mwangi,Cabbage,Vegetables,503,33.44,Bungoma,2025-11-03T22:26:09.138102,Premium,True,True,2025-11-15T22:26:09.138102
+156,77,Sarah Njeri,Passion Fruits,Fruits,116,367.06,Mombasa,2025-10-29T22:26:09.138102,Standard,True,True,2025-11-13T22:26:09.138102
+157,13,Agnes Nyong'o,Oranges,Fruits,498,84.08,Kericho,2025-11-06T22:26:09.138608,Grade B,False,True,2025-11-10T22:26:09.138608
+158,9,Agnes Nyong'o,Pineapples,Fruits,644,187.76,Nyeri,2025-10-24T22:26:09.138608,Grade B,False,True,2025-11-14T22:26:09.138675
+159,36,Lucy Wambui,Pineapples,Fruits,399,111.69,Eldoret,2025-11-16T22:26:09.138675,Grade B,True,True,2025-11-16T22:26:09.138675
+160,98,Mary Wanjiku,Wheat,Grains,576,65.85,Thika,2025-11-08T22:26:09.138675,Grade A,False,True,2025-11-12T22:26:09.138675
+161,36,Lucy Wambui,Rice,Grains,411,116.95,Eldoret,2025-10-28T22:26:09.138675,Standard,True,True,2025-11-10T22:26:09.138675
+162,61,Esther Chepkemoi,Kale,Vegetables,84,38.1,Naivasha,2025-10-29T22:26:09.138675,Grade B,True,True,2025-11-12T22:26:09.138675
+163,85,Francis Omondi,Rice,Grains,642,109.28,Garissa,2025-11-02T22:26:09.138675,Premium,False,True,2025-11-10T22:26:09.138675
+164,32,Rose Wanjiru,Mangoes,Fruits,585,179.76,Machakos,2025-11-11T22:26:09.138675,Grade B,True,True,2025-11-17T22:26:09.138675
+165,40,Michael Otieno,Kale,Vegetables,171,47.15,Meru,2025-11-17T22:26:09.138675,Grade A,True,True,2025-11-17T22:26:09.138675
+166,35,Grace Akinyi,Watermelons,Fruits,356,44.4,Garissa,2025-10-24T22:26:09.138675,Grade A,True,True,2025-11-15T22:26:09.138675
+167,35,Grace Akinyi,Mangoes,Fruits,336,157.87,Garissa,2025-11-04T22:26:09.138675,Standard,False,True,2025-11-13T22:26:09.138675
+168,78,Jane Muthoni,Peas,Legumes,818,141.64,Nairobi,2025-10-28T22:26:09.138675,Grade A,False,True,2025-11-15T22:26:09.138675
+169,25,Esther Chepkemoi,Passion Fruits,Fruits,354,258.0,Migori,2025-11-17T22:26:09.138675,Premium,True,True,2025-11-11T22:26:09.138675
+170,6,James Mwangi,Rice,Grains,261,144.1,Kakamega,2025-11-15T22:26:09.138675,Standard,True,True,2025-11-12T22:26:09.138675
+171,45,Michael Otieno,Potatoes,Vegetables,207,42.63,Machakos,2025-11-04T22:26:09.138675,Grade B,True,True,2025-11-17T22:26:09.138675
+172,4,Mary Wanjiku,Millet,Grains,718,67.19,Nyeri,2025-11-13T22:26:09.138675,Standard,True,True,2025-11-13T22:26:09.138675
+173,70,Margaret Wairimu,Maize,Grains,181,66.58,Meru,2025-10-27T22:26:09.139179,Grade A,False,True,2025-11-14T22:26:09.139179
+174,9,Agnes Nyong'o,Carrots,Vegetables,599,82.47,Nyeri,2025-11-10T22:26:09.139179,Standard,False,True,2025-11-15T22:26:09.139248
+175,68,Grace Akinyi,Potatoes,Vegetables,745,73.81,Bungoma,2025-11-04T22:26:09.139248,Premium,True,True,2025-11-13T22:26:09.139248
+176,69,John Kamau,Millet,Grains,116,114.25,Meru,2025-10-31T22:26:09.139248,Premium,False,True,2025-11-11T22:26:09.139248
+177,36,Lucy Wambui,Green Grams,Legumes,249,140.38,Eldoret,2025-11-04T22:26:09.139248,Premium,True,True,2025-11-13T22:26:09.139248
+178,72,Catherine Auma,Maize,Grains,816,69.73,Machakos,2025-10-24T22:26:09.139248,Grade B,True,True,2025-11-16T22:26:09.139248
+179,64,David Kiprop,Potatoes,Vegetables,856,58.56,Migori,2025-11-09T22:26:09.139248,Grade B,False,True,2025-11-11T22:26:09.139248
+180,18,John Kamau,Sorghum,Grains,833,37.78,Meru,2025-10-24T22:26:09.139248,Standard,True,True,2025-11-12T22:26:09.139248
+181,66,John Kamau,Maize,Grains,195,64.52,Malindi,2025-10-21T22:26:09.139248,Grade B,True,True,2025-11-15T22:26:09.139248
+182,35,Grace Akinyi,Cabbage,Vegetables,632,37.21,Garissa,2025-11-04T22:26:09.139248,Grade B,True,True,2025-11-16T22:26:09.139248
+183,87,Samuel Kiprotich,Peas,Legumes,124,223.03,Kitale,2025-11-02T22:26:09.139248,Premium,True,True,2025-11-10T22:26:09.139248
+184,86,Grace Akinyi,Pineapples,Fruits,342,167.64,Voi,2025-11-16T22:26:09.139248,Grade B,False,True,2025-11-17T22:26:09.139248
+185,47,Agnes Nyong'o,Tomatoes,Vegetables,334,92.17,Kericho,2025-10-19T22:26:09.139248,Grade A,True,True,2025-11-15T22:26:09.139248
+186,100,John Kamau,Cabbage,Vegetables,128,38.91,Naivasha,2025-10-25T22:26:09.139248,Grade A,False,True,2025-11-16T22:26:09.139248
+187,1,James Mwangi,Bananas,Fruits,466,89.7,Garissa,2025-11-06T22:26:09.139248,Grade A,True,True,2025-11-15T22:26:09.139248
+188,6,James Mwangi,Groundnuts,Legumes,707,173.25,Kakamega,2025-11-14T22:26:09.139753,Grade B,False,True,2025-11-14T22:26:09.139753
+189,67,Esther Chepkemoi,Beans,Legumes,156,100.19,Nakuru,2025-11-09T22:26:09.139824,Standard,False,True,2025-11-13T22:26:09.139824
+190,89,Paul Cheruiyot,Kale,Vegetables,796,42.1,Embu,2025-11-14T22:26:09.139824,Premium,True,True,2025-11-12T22:26:09.139824
+191,47,Agnes Nyong'o,Avocados,Fruits,910,224.04,Kericho,2025-11-08T22:26:09.139824,Premium,False,True,2025-11-13T22:26:09.139824
+192,65,Agnes Nyong'o,Spinach,Vegetables,782,76.59,Kitale,2025-10-18T22:26:09.139824,Premium,True,True,2025-11-14T22:26:09.139824
+193,42,Francis Omondi,Potatoes,Vegetables,432,43.97,Bungoma,2025-10-31T22:26:09.139824,Grade B,False,True,2025-11-14T22:26:09.139824
+194,46,Daniel Koech,Potatoes,Vegetables,128,53.77,Thika,2025-11-08T22:26:09.139824,Standard,True,True,2025-11-14T22:26:09.139824
+195,75,Agnes Nyong'o,Potatoes,Vegetables,381,42.25,Nyeri,2025-11-05T22:26:09.139824,Standard,False,True,2025-11-15T22:26:09.139824
+196,26,Francis Omondi,Onions,Vegetables,970,73.75,Nairobi,2025-10-25T22:26:09.139824,Grade A,False,True,2025-11-10T22:26:09.139824
+197,60,Margaret Wairimu,Spinach,Vegetables,526,73.98,Naivasha,2025-11-15T22:26:09.139824,Premium,True,True,2025-11-13T22:26:09.139824
+198,16,Michael Otieno,Cabbage,Vegetables,670,52.35,Migori,2025-11-16T22:26:09.139824,Grade B,True,True,2025-11-16T22:26:09.139824
+199,25,Esther Chepkemoi,Wheat,Grains,682,65.67,Migori,2025-11-08T22:26:09.140371,Standard,False,True,2025-11-10T22:26:09.140371
+200,36,Lucy Wambui,Millet,Grains,258,97.69,Eldoret,2025-11-08T22:26:09.140441,Grade B,False,True,2025-11-17T22:26:09.140441
+201,1,James Mwangi,Potatoes,Vegetables,648,73.53,Garissa,2025-11-02T22:26:09.140441,Premium,True,True,2025-11-17T22:26:09.140441
+202,47,Agnes Nyong'o,Passion Fruits,Fruits,136,220.84,Kericho,2025-10-22T22:26:09.140441,Grade B,False,True,2025-11-14T22:26:09.140441
+203,17,Samuel Kiprotich,Wheat,Grains,641,86.85,Garissa,2025-11-04T22:26:09.140441,Premium,True,True,2025-11-13T22:26:09.140441
+204,12,Michael Otieno,Oranges,Fruits,728,119.37,Voi,2025-10-27T22:26:09.140441,Premium,True,True,2025-11-16T22:26:09.140441
+205,67,Esther Chepkemoi,Spinach,Vegetables,417,40.39,Nakuru,2025-10-23T22:26:09.140441,Grade A,False,True,2025-11-12T22:26:09.140441
+206,90,John Kamau,Watermelons,Fruits,523,39.27,Kakamega,2025-11-14T22:26:09.140441,Grade B,False,True,2025-11-16T22:26:09.140441
+207,42,Francis Omondi,Pineapples,Fruits,499,184.85,Bungoma,2025-10-24T22:26:09.140441,Grade A,True,True,2025-11-12T22:26:09.140441
+208,97,Samuel Kiprotich,Kale,Vegetables,559,34.35,Kakamega,2025-10-25T22:26:09.140441,Premium,True,True,2025-11-16T22:26:09.140441
+209,39,Margaret Wairimu,Passion Fruits,Fruits,132,294.34,Machakos,2025-10-19T22:26:09.140441,Premium,False,True,2025-11-12T22:26:09.140441
+210,25,Esther Chepkemoi,Potatoes,Vegetables,497,65.93,Migori,2025-10-30T22:26:09.140441,Standard,False,True,2025-11-17T22:26:09.140989
+211,32,Rose Wanjiru,Tomatoes,Vegetables,97,125.97,Machakos,2025-10-26T22:26:09.140989,Grade B,False,True,2025-11-11T22:26:09.140989
+212,21,Lucy Wambui,Peas,Legumes,419,195.29,Kericho,2025-10-31T22:26:09.141057,Grade A,False,True,2025-11-15T22:26:09.141057
+213,44,Lucy Wambui,Green Grams,Legumes,331,189.18,Nairobi,2025-11-01T22:26:09.141057,Premium,True,True,2025-11-11T22:26:09.141057
+214,77,Sarah Njeri,Green Grams,Legumes,211,144.54,Mombasa,2025-10-22T22:26:09.141057,Standard,False,True,2025-11-10T22:26:09.141057
+215,49,Catherine Auma,Maize,Grains,784,56.04,Voi,2025-11-14T22:26:09.141057,Standard,False,True,2025-11-17T22:26:09.141057
+216,96,James Mwangi,Millet,Grains,847,78.8,Bungoma,2025-10-26T22:26:09.141057,Premium,True,True,2025-11-14T22:26:09.141057
+217,85,Francis Omondi,Peas,Legumes,685,174.42,Garissa,2025-10-21T22:26:09.141057,Grade B,False,True,2025-11-11T22:26:09.141057
+218,48,Daniel Koech,Maize,Grains,90,53.09,Meru,2025-10-19T22:26:09.141057,Standard,True,True,2025-11-12T22:26:09.141057
+219,83,Catherine Auma,Beans,Legumes,893,100.55,Nakuru,2025-10-20T22:26:09.141057,Grade A,False,True,2025-11-15T22:26:09.141057
+220,51,Joseph Karanja,Avocados,Fruits,840,249.47,Kitale,2025-10-26T22:26:09.141057,Standard,False,True,2025-11-16T22:26:09.141057
+221,68,Grace Akinyi,Maize,Grains,398,48.44,Bungoma,2025-11-06T22:26:09.141057,Grade B,True,True,2025-11-14T22:26:09.141605
+222,49,Catherine Auma,Peas,Legumes,13,204.62,Voi,2025-11-14T22:26:09.141605,Grade B,False,True,2025-11-13T22:26:09.141675
+223,52,Michael Otieno,Maize,Grains,160,78.38,Nyeri,2025-10-26T22:26:09.141675,Premium,True,True,2025-11-17T22:26:09.141675
+224,100,John Kamau,Watermelons,Fruits,476,54.87,Naivasha,2025-10-18T22:26:09.141675,Grade A,True,True,2025-11-17T22:26:09.141675
+225,72,Catherine Auma,Passion Fruits,Fruits,757,293.55,Machakos,2025-10-20T22:26:09.141675,Standard,False,True,2025-11-16T22:26:09.141675
+226,18,John Kamau,Millet,Grains,632,82.34,Meru,2025-11-07T22:26:09.141675,Premium,True,True,2025-11-15T22:26:09.141675
+227,22,Esther Chepkemoi,Cowpeas,Legumes,626,86.63,Kisumu,2025-10-31T22:26:09.141675,Standard,False,True,2025-11-13T22:26:09.141675
+228,12,Michael Otieno,Bananas,Fruits,687,72.0,Voi,2025-10-25T22:26:09.141675,Standard,True,True,2025-11-12T22:26:09.141675
+229,60,Margaret Wairimu,Cowpeas,Legumes,114,147.98,Naivasha,2025-10-23T22:26:09.141675,Grade B,False,True,2025-11-15T22:26:09.141675
+230,7,Francis Omondi,Beans,Legumes,278,145.94,Nakuru,2025-11-03T22:26:09.141675,Grade B,False,True,2025-11-13T22:26:09.141675
+231,67,Esther Chepkemoi,Sorghum,Grains,898,50.67,Nakuru,2025-11-05T22:26:09.141675,Premium,False,True,2025-11-13T22:26:09.142222
+232,88,Agnes Nyong'o,Avocados,Fruits,238,152.78,Kakamega,2025-10-30T22:26:09.142222,Grade A,False,True,2025-11-17T22:26:09.142295
+233,22,Esther Chepkemoi,Oranges,Fruits,543,72.05,Kisumu,2025-10-19T22:26:09.142295,Grade A,True,True,2025-11-15T22:26:09.142295
+234,84,Paul Cheruiyot,Green Grams,Legumes,133,209.6,Kericho,2025-11-04T22:26:09.142295,Grade A,True,True,2025-11-12T22:26:09.142295
+235,95,Margaret Wairimu,Beans,Legumes,122,195.46,Kericho,2025-11-03T22:26:09.142295,Grade B,True,True,2025-11-14T22:26:09.142295
+236,72,Catherine Auma,Onions,Vegetables,511,79.13,Machakos,2025-10-31T22:26:09.142295,Grade B,False,True,2025-11-16T22:26:09.142295
+237,25,Esther Chepkemoi,Passion Fruits,Fruits,131,309.06,Migori,2025-11-10T22:26:09.142295,Grade B,False,True,2025-11-14T22:26:09.142295
+238,39,Margaret Wairimu,Cowpeas,Legumes,498,84.9,Machakos,2025-10-22T22:26:09.142295,Premium,True,True,2025-11-16T22:26:09.142295
+239,39,Margaret Wairimu,Peas,Legumes,683,248.27,Machakos,2025-10-24T22:26:09.142295,Premium,False,True,2025-11-10T22:26:09.142295
+240,15,David Kiprop,Wheat,Grains,411,54.29,Bungoma,2025-10-24T22:26:09.142295,Standard,True,True,2025-11-11T22:26:09.142295
+241,26,Francis Omondi,Green Grams,Legumes,466,199.37,Nairobi,2025-11-12T22:26:09.142295,Grade A,False,True,2025-11-16T22:26:09.142295
+242,15,David Kiprop,Sorghum,Grains,250,47.01,Bungoma,2025-11-12T22:26:09.142841,Standard,True,True,2025-11-16T22:26:09.142841
+243,94,David Kiprop,Millet,Grains,912,102.75,Kisumu,2025-11-16T22:26:09.142841,Grade B,True,True,2025-11-12T22:26:09.142908
+244,66,John Kamau,Spinach,Vegetables,878,64.96,Malindi,2025-10-29T22:26:09.142908,Standard,True,True,2025-11-11T22:26:09.142908
+245,72,Catherine Auma,Millet,Grains,630,103.77,Machakos,2025-10-30T22:26:09.142908,Grade A,False,True,2025-11-15T22:26:09.142908
+246,31,Catherine Auma,Spinach,Vegetables,887,48.06,Thika,2025-11-11T22:26:09.142908,Standard,False,True,2025-11-16T22:26:09.142908
+247,1,James Mwangi,Groundnuts,Legumes,958,255.92,Garissa,2025-10-20T22:26:09.142908,Grade A,False,True,2025-11-16T22:26:09.142908
+248,37,Catherine Auma,Sorghum,Grains,722,51.92,Malindi,2025-10-24T22:26:09.142908,Grade A,True,True,2025-11-13T22:26:09.142908
+249,64,David Kiprop,Green Grams,Legumes,383,211.78,Migori,2025-11-07T22:26:09.142908,Premium,True,True,2025-11-10T22:26:09.142908
+250,66,John Kamau,Millet,Grains,301,111.33,Malindi,2025-11-12T22:26:09.142908,Premium,False,True,2025-11-15T22:26:09.142908
+251,99,Peter Ochieng,Kale,Vegetables,422,47.96,Voi,2025-11-04T22:26:09.142908,Grade B,True,True,2025-11-12T22:26:09.142908
+252,17,Samuel Kiprotich,Onions,Vegetables,377,74.38,Garissa,2025-10-31T22:26:09.142908,Standard,False,True,2025-11-12T22:26:09.142908
+253,81,Agnes Nyong'o,Mangoes,Fruits,463,127.67,Kakamega,2025-11-14T22:26:09.143457,Premium,False,True,2025-11-17T22:26:09.143457
+254,18,John Kamau,Groundnuts,Legumes,996,204.81,Meru,2025-11-13T22:26:09.143524,Standard,True,True,2025-11-14T22:26:09.143524
+255,92,Esther Chepkemoi,Onions,Vegetables,311,68.19,Kakamega,2025-11-07T22:26:09.143524,Grade A,True,True,2025-11-14T22:26:09.143524
+256,12,Michael Otieno,Oranges,Fruits,405,84.37,Voi,2025-11-13T22:26:09.143524,Grade B,False,True,2025-11-12T22:26:09.143524
+257,20,Esther Chepkemoi,Sorghum,Grains,437,64.75,Thika,2025-10-27T22:26:09.143524,Grade B,False,True,2025-11-14T22:26:09.143524
+258,82,Sarah Njeri,Sorghum,Grains,760,42.56,Kitale,2025-11-08T22:26:09.143524,Grade A,True,True,2025-11-10T22:26:09.143524
+259,86,Grace Akinyi,Cowpeas,Legumes,792,83.0,Voi,2025-11-08T22:26:09.143524,Grade A,False,True,2025-11-10T22:26:09.143524
+260,2,Joseph Karanja,Tomatoes,Vegetables,240,80.66,Meru,2025-10-30T22:26:09.143524,Grade A,False,True,2025-11-15T22:26:09.143524
+261,13,Agnes Nyong'o,Pineapples,Fruits,341,122.72,Kericho,2025-10-29T22:26:09.143524,Standard,False,True,2025-11-11T22:26:09.143524
+262,26,Francis Omondi,Beans,Legumes,401,111.24,Nairobi,2025-11-05T22:26:09.143524,Grade A,False,True,2025-11-11T22:26:09.143524
+263,68,Grace Akinyi,Carrots,Vegetables,822,87.26,Bungoma,2025-10-22T22:26:09.144071,Premium,True,True,2025-11-11T22:26:09.144071
+264,61,Esther Chepkemoi,Pineapples,Fruits,293,111.61,Naivasha,2025-10-24T22:26:09.144071,Premium,True,True,2025-11-14T22:26:09.144151
+265,36,Lucy Wambui,Maize,Grains,241,60.15,Eldoret,2025-11-07T22:26:09.144151,Grade B,True,True,2025-11-12T22:26:09.144151
+266,14,Grace Akinyi,Onions,Vegetables,57,65.83,Homa Bay,2025-11-12T22:26:09.144151,Premium,True,True,2025-11-15T22:26:09.144151
+267,57,Francis Omondi,Cabbage,Vegetables,259,44.51,Embu,2025-10-21T22:26:09.144151,Standard,False,True,2025-11-17T22:26:09.144151
+268,1,James Mwangi,Cabbage,Vegetables,179,55.82,Garissa,2025-11-17T22:26:09.144151,Grade A,True,True,2025-11-15T22:26:09.144151
+269,58,Lucy Wambui,Cowpeas,Legumes,146,102.95,Kitale,2025-10-25T22:26:09.144151,Grade B,True,True,2025-11-13T22:26:09.144151
+270,51,Joseph Karanja,Watermelons,Fruits,502,52.68,Kitale,2025-11-10T22:26:09.144151,Standard,True,True,2025-11-17T22:26:09.144151
+271,56,Lucy Wambui,Pineapples,Fruits,383,102.65,Thika,2025-10-27T22:26:09.144151,Grade A,True,True,2025-11-13T22:26:09.144151
+272,17,Samuel Kiprotich,Mangoes,Fruits,245,147.96,Garissa,2025-11-09T22:26:09.144151,Grade B,False,True,2025-11-12T22:26:09.144151
+273,45,Michael Otieno,Millet,Grains,411,61.68,Machakos,2025-11-17T22:26:09.144151,Premium,True,True,2025-11-15T22:26:09.144151
+274,70,Margaret Wairimu,Rice,Grains,678,101.34,Meru,2025-10-30T22:26:09.144701,Premium,False,True,2025-11-17T22:26:09.144701
+275,49,Catherine Auma,Cowpeas,Legumes,41,141.67,Voi,2025-11-09T22:26:09.144769,Grade A,False,True,2025-11-16T22:26:09.144769
+276,41,John Kamau,Cowpeas,Legumes,80,86.29,Meru,2025-11-15T22:26:09.144769,Standard,True,True,2025-11-14T22:26:09.144769
+277,74,Francis Omondi,Passion Fruits,Fruits,687,265.6,Nyeri,2025-11-17T22:26:09.144769,Grade A,True,True,2025-11-10T22:26:09.144769
+278,38,Jane Muthoni,Avocados,Fruits,290,294.63,Nyeri,2025-11-03T22:26:09.144769,Grade A,False,True,2025-11-17T22:26:09.144769
+279,2,Joseph Karanja,Avocados,Fruits,772,175.41,Meru,2025-11-01T22:26:09.144769,Premium,True,True,2025-11-11T22:26:09.144769
+280,66,John Kamau,Avocados,Fruits,575,217.51,Malindi,2025-11-14T22:26:09.144769,Grade B,True,True,2025-11-10T22:26:09.144769
+281,26,Francis Omondi,Groundnuts,Legumes,101,264.79,Nairobi,2025-11-14T22:26:09.144769,Grade B,False,True,2025-11-10T22:26:09.144769
+282,31,Catherine Auma,Green Grams,Legumes,979,208.67,Thika,2025-11-11T22:26:09.144769,Grade B,False,True,2025-11-17T22:26:09.144769
+283,18,John Kamau,Wheat,Grains,662,85.98,Meru,2025-10-23T22:26:09.144769,Standard,True,True,2025-11-10T22:26:09.144769
+284,35,Grace Akinyi,Maize,Grains,304,78.26,Garissa,2025-11-06T22:26:09.144769,Standard,False,True,2025-11-15T22:26:09.144769
+285,48,Daniel Koech,Peas,Legumes,104,181.05,Meru,2025-11-07T22:26:09.145316,Premium,False,True,2025-11-10T22:26:09.145316
+286,87,Samuel Kiprotich,Pineapples,Fruits,39,195.23,Kitale,2025-11-11T22:26:09.145384,Grade A,False,True,2025-11-15T22:26:09.145384
+287,5,Jane Muthoni,Millet,Grains,236,74.57,Homa Bay,2025-11-04T22:26:09.145384,Premium,True,True,2025-11-11T22:26:09.145384
+288,37,Catherine Auma,Groundnuts,Legumes,849,208.48,Malindi,2025-11-06T22:26:09.145384,Grade A,True,True,2025-11-13T22:26:09.145384
+289,76,Margaret Wairimu,Green Grams,Legumes,643,232.81,Kericho,2025-11-05T22:26:09.145384,Standard,True,True,2025-11-13T22:26:09.145384
+290,48,Daniel Koech,Carrots,Vegetables,686,57.6,Meru,2025-10-27T22:26:09.145384,Grade B,True,True,2025-11-11T22:26:09.145384
+291,6,James Mwangi,Potatoes,Vegetables,978,66.23,Kakamega,2025-11-12T22:26:09.145384,Premium,False,True,2025-11-17T22:26:09.145384
+292,56,Lucy Wambui,Maize,Grains,139,55.36,Thika,2025-10-30T22:26:09.145384,Grade B,True,True,2025-11-10T22:26:09.145384
+293,57,Francis Omondi,Millet,Grains,205,63.37,Embu,2025-11-07T22:26:09.145384,Premium,True,True,2025-11-17T22:26:09.145384
+294,37,Catherine Auma,Potatoes,Vegetables,569,45.29,Malindi,2025-10-19T22:26:09.145384,Grade A,True,True,2025-11-11T22:26:09.145384
+295,41,John Kamau,Millet,Grains,784,115.11,Meru,2025-11-01T22:26:09.145384,Premium,False,True,2025-11-10T22:26:09.145384
+296,80,James Mwangi,Maize,Grains,780,56.79,Kakamega,2025-11-14T22:26:09.145384,Standard,False,True,2025-11-11T22:26:09.145384
+297,7,Francis Omondi,Avocados,Fruits,84,276.05,Nakuru,2025-11-11T22:26:09.145384,Standard,True,True,2025-11-15T22:26:09.145384
+298,68,Grace Akinyi,Oranges,Fruits,447,101.2,Bungoma,2025-11-13T22:26:09.145890,Standard,False,True,2025-11-13T22:26:09.145890
+299,8,Sarah Njeri,Beans,Legumes,312,125.71,Nakuru,2025-11-05T22:26:09.145958,Grade B,False,True,2025-11-12T22:26:09.145958
+300,66,John Kamau,Avocados,Fruits,589,225.81,Malindi,2025-10-30T22:26:09.145958,Grade B,False,True,2025-11-15T22:26:09.145958
+301,13,Agnes Nyong'o,Mangoes,Fruits,775,197.69,Kericho,2025-10-29T22:26:09.145958,Premium,False,True,2025-11-14T22:26:09.145958
+302,49,Catherine Auma,Watermelons,Fruits,196,35.85,Voi,2025-10-30T22:26:09.145958,Premium,True,True,2025-11-17T22:26:09.145958
+303,62,Daniel Koech,Sorghum,Grains,91,62.52,Eldoret,2025-11-06T22:26:09.145958,Grade B,False,True,2025-11-14T22:26:09.145958
+304,86,Grace Akinyi,Pineapples,Fruits,89,198.42,Voi,2025-11-12T22:26:09.145958,Premium,True,True,2025-11-10T22:26:09.145958
+305,100,John Kamau,Spinach,Vegetables,278,74.86,Naivasha,2025-11-10T22:26:09.145958,Grade B,False,True,2025-11-17T22:26:09.145958
+306,88,Agnes Nyong'o,Sorghum,Grains,317,69.39,Kakamega,2025-11-11T22:26:09.145958,Grade B,True,True,2025-11-16T22:26:09.145958
+307,62,Daniel Koech,Rice,Grains,316,110.97,Eldoret,2025-10-27T22:26:09.145958,Grade A,True,True,2025-11-10T22:26:09.145958
+308,42,Francis Omondi,Peas,Legumes,76,130.34,Bungoma,2025-11-01T22:26:09.145958,Grade B,False,True,2025-11-15T22:26:09.145958
+309,84,Paul Cheruiyot,Maize,Grains,714,44.78,Kericho,2025-10-30T22:26:09.146506,Grade B,True,True,2025-11-15T22:26:09.146506
+310,6,James Mwangi,Cabbage,Vegetables,297,56.89,Kakamega,2025-11-12T22:26:09.146575,Grade A,True,True,2025-11-10T22:26:09.146575
+311,61,Esther Chepkemoi,Spinach,Vegetables,818,55.37,Naivasha,2025-11-09T22:26:09.146575,Grade B,True,True,2025-11-11T22:26:09.146575
+312,17,Samuel Kiprotich,Avocados,Fruits,817,220.87,Garissa,2025-11-06T22:26:09.146575,Grade A,False,True,2025-11-16T22:26:09.146575
+313,18,John Kamau,Cowpeas,Legumes,710,110.21,Meru,2025-11-12T22:26:09.146575,Standard,True,True,2025-11-13T22:26:09.146575
+314,60,Margaret Wairimu,Carrots,Vegetables,127,79.33,Naivasha,2025-10-23T22:26:09.146575,Premium,True,True,2025-11-11T22:26:09.146575
+315,61,Esther Chepkemoi,Groundnuts,Legumes,133,283.23,Naivasha,2025-10-29T22:26:09.146575,Standard,False,True,2025-11-13T22:26:09.146575
+316,30,Agnes Nyong'o,Onions,Vegetables,297,101.09,Garissa,2025-11-08T22:26:09.146575,Premium,False,True,2025-11-10T22:26:09.146575
+317,87,Samuel Kiprotich,Millet,Grains,702,70.38,Kitale,2025-10-24T22:26:09.146575,Grade B,True,True,2025-11-13T22:26:09.146575
+318,81,Agnes Nyong'o,Bananas,Fruits,260,57.42,Kakamega,2025-11-17T22:26:09.146575,Grade B,False,True,2025-11-11T22:26:09.146575
+319,52,Michael Otieno,Wheat,Grains,514,57.31,Nyeri,2025-11-10T22:26:09.146575,Grade A,True,True,2025-11-11T22:26:09.146575
+320,93,James Mwangi,Beans,Legumes,302,114.4,Garissa,2025-10-23T22:26:09.146575,Standard,False,True,2025-11-12T22:26:09.147119
+321,98,Mary Wanjiku,Groundnuts,Legumes,944,283.61,Thika,2025-11-11T22:26:09.147119,Grade A,False,True,2025-11-12T22:26:09.147187
+322,82,Sarah Njeri,Carrots,Vegetables,665,75.22,Kitale,2025-11-04T22:26:09.147187,Standard,False,True,2025-11-11T22:26:09.147187
+323,88,Agnes Nyong'o,Carrots,Vegetables,720,78.0,Kakamega,2025-10-22T22:26:09.147187,Grade B,False,True,2025-11-10T22:26:09.147187
+324,98,Mary Wanjiku,Spinach,Vegetables,494,42.78,Thika,2025-10-28T22:26:09.147187,Grade A,False,True,2025-11-17T22:26:09.147187
+325,11,Rose Wanjiru,Millet,Grains,899,71.16,Garissa,2025-11-08T22:26:09.147187,Grade A,False,True,2025-11-11T22:26:09.147187
+326,33,James Mwangi,Millet,Grains,400,99.22,Kericho,2025-10-24T22:26:09.147187,Grade A,False,True,2025-11-11T22:26:09.147187
+327,3,Grace Akinyi,Tomatoes,Vegetables,814,86.58,Machakos,2025-10-23T22:26:09.147187,Grade A,False,True,2025-11-12T22:26:09.147187
+328,27,Rose Wanjiru,Pineapples,Fruits,297,151.7,Voi,2025-10-25T22:26:09.147187,Grade B,False,True,2025-11-15T22:26:09.147187
+329,36,Lucy Wambui,Tomatoes,Vegetables,753,107.95,Eldoret,2025-10-30T22:26:09.147187,Premium,False,True,2025-11-14T22:26:09.147187
+330,57,Francis Omondi,Oranges,Fruits,44,90.66,Embu,2025-10-30T22:26:09.147187,Grade B,True,True,2025-11-15T22:26:09.147187
+331,96,James Mwangi,Peas,Legumes,823,163.28,Bungoma,2025-11-01T22:26:09.147187,Premium,False,True,2025-11-15T22:26:09.147734
+332,59,Catherine Auma,Spinach,Vegetables,705,74.88,Nakuru,2025-11-05T22:26:09.147734,Grade B,False,True,2025-11-17T22:26:09.147802
+333,74,Francis Omondi,Rice,Grains,368,135.73,Nyeri,2025-10-22T22:26:09.147802,Grade A,True,True,2025-11-16T22:26:09.147802
+334,81,Agnes Nyong'o,Oranges,Fruits,912,73.04,Kakamega,2025-11-12T22:26:09.147802,Standard,True,True,2025-11-11T22:26:09.147802
+335,74,Francis Omondi,Cowpeas,Legumes,870,109.49,Nyeri,2025-11-09T22:26:09.147802,Standard,True,True,2025-11-10T22:26:09.147802
+336,16,Michael Otieno,Avocados,Fruits,33,271.72,Migori,2025-11-03T22:26:09.147802,Grade B,True,True,2025-11-15T22:26:09.147802
+337,78,Jane Muthoni,Cabbage,Vegetables,914,45.02,Nairobi,2025-11-02T22:26:09.147802,Grade A,False,True,2025-11-10T22:26:09.147802
+338,10,Joseph Karanja,Groundnuts,Legumes,490,285.41,Kakamega,2025-10-26T22:26:09.147802,Standard,True,True,2025-11-15T22:26:09.147802
+339,75,Agnes Nyong'o,Pineapples,Fruits,620,108.22,Nyeri,2025-11-05T22:26:09.147802,Grade A,True,True,2025-11-10T22:26:09.147802
+340,80,James Mwangi,Watermelons,Fruits,730,40.82,Kakamega,2025-10-21T22:26:09.147802,Grade B,True,True,2025-11-10T22:26:09.147802
+341,93,James Mwangi,Cabbage,Vegetables,44,44.17,Garissa,2025-10-25T22:26:09.147802,Premium,True,True,2025-11-13T22:26:09.147802
+342,53,James Mwangi,Tomatoes,Vegetables,869,102.86,Kakamega,2025-11-16T22:26:09.147802,Premium,False,True,2025-11-13T22:26:09.147802
+343,58,Lucy Wambui,Avocados,Fruits,541,241.73,Kitale,2025-10-23T22:26:09.148306,Premium,True,True,2025-11-11T22:26:09.148306
+344,1,James Mwangi,Millet,Grains,270,103.06,Garissa,2025-11-04T22:26:09.148412,Grade A,True,True,2025-11-10T22:26:09.148412
+345,23,Peter Ochieng,Onions,Vegetables,851,84.18,Embu,2025-10-25T22:26:09.148412,Grade A,True,True,2025-11-11T22:26:09.148412
+346,7,Francis Omondi,Sorghum,Grains,133,42.67,Nakuru,2025-10-30T22:26:09.148412,Grade B,True,True,2025-11-15T22:26:09.148412
+347,46,Daniel Koech,Green Grams,Legumes,826,168.17,Thika,2025-10-25T22:26:09.148412,Premium,True,True,2025-11-17T22:26:09.148412
+348,45,Michael Otieno,Rice,Grains,781,107.03,Machakos,2025-10-21T22:26:09.148412,Grade B,False,True,2025-11-14T22:26:09.148412
+349,44,Lucy Wambui,Passion Fruits,Fruits,138,256.53,Nairobi,2025-10-23T22:26:09.148412,Grade B,False,True,2025-11-12T22:26:09.148412
+350,64,David Kiprop,Spinach,Vegetables,772,74.63,Migori,2025-11-12T22:26:09.148412,Grade A,False,True,2025-11-13T22:26:09.148412
+351,37,Catherine Auma,Kale,Vegetables,369,46.94,Malindi,2025-10-28T22:26:09.148918,Standard,True,True,2025-11-15T22:26:09.149002
+352,10,Joseph Karanja,Spinach,Vegetables,800,79.61,Kakamega,2025-10-18T22:26:09.149002,Standard,False,True,2025-11-14T22:26:09.149002
+353,70,Margaret Wairimu,Beans,Legumes,584,128.47,Meru,2025-11-04T22:26:09.149002,Standard,False,True,2025-11-13T22:26:09.149002
+354,70,Margaret Wairimu,Cowpeas,Legumes,641,127.05,Meru,2025-10-26T22:26:09.149002,Premium,True,True,2025-11-10T22:26:09.149002
+355,23,Peter Ochieng,Tomatoes,Vegetables,11,123.8,Embu,2025-10-28T22:26:09.149002,Premium,False,True,2025-11-13T22:26:09.149002
+356,21,Lucy Wambui,Millet,Grains,490,87.78,Kericho,2025-10-27T22:26:09.149002,Premium,False,True,2025-11-17T22:26:09.149002
+357,6,James Mwangi,Maize,Grains,516,46.67,Kakamega,2025-10-29T22:26:09.149002,Grade A,True,True,2025-11-10T22:26:09.149002
+358,34,Esther Chepkemoi,Wheat,Grains,261,56.27,Machakos,2025-11-17T22:26:09.149002,Premium,True,True,2025-11-10T22:26:09.149002
+359,39,Margaret Wairimu,Cowpeas,Legumes,379,151.31,Machakos,2025-10-22T22:26:09.149002,Grade A,False,True,2025-11-12T22:26:09.149507
+360,48,Daniel Koech,Passion Fruits,Fruits,74,288.84,Meru,2025-10-30T22:26:09.149507,Standard,False,True,2025-11-16T22:26:09.149507
+361,65,Agnes Nyong'o,Onions,Vegetables,408,102.33,Kitale,2025-11-06T22:26:09.149587,Premium,False,True,2025-11-14T22:26:09.149587
+362,49,Catherine Auma,Wheat,Grains,452,78.68,Voi,2025-10-27T22:26:09.149587,Grade B,False,True,2025-11-14T22:26:09.149587
+363,40,Michael Otieno,Tomatoes,Vegetables,473,101.73,Meru,2025-10-26T22:26:09.149587,Grade B,True,True,2025-11-13T22:26:09.149587
+364,33,James Mwangi,Beans,Legumes,714,189.14,Kericho,2025-11-04T22:26:09.149587,Grade A,True,True,2025-11-17T22:26:09.149587
+365,37,Catherine Auma,Cowpeas,Legumes,319,119.54,Malindi,2025-10-18T22:26:09.149587,Grade B,True,True,2025-11-10T22:26:09.149587
+366,26,Francis Omondi,Watermelons,Fruits,241,46.87,Nairobi,2025-10-27T22:26:09.149587,Grade A,False,True,2025-11-15T22:26:09.149587
+367,13,Agnes Nyong'o,Bananas,Fruits,304,89.95,Kericho,2025-11-03T22:26:09.149587,Premium,False,True,2025-11-13T22:26:09.149587
+368,37,Catherine Auma,Wheat,Grains,177,68.21,Malindi,2025-11-11T22:26:09.149587,Standard,False,True,2025-11-14T22:26:09.149587
+369,90,John Kamau,Maize,Grains,759,43.18,Kakamega,2025-11-03T22:26:09.149587,Grade A,False,True,2025-11-11T22:26:09.149587
+370,51,Joseph Karanja,Wheat,Grains,478,51.15,Kitale,2025-11-14T22:26:09.149587,Standard,True,True,2025-11-11T22:26:09.149587
+371,5,Jane Muthoni,Peas,Legumes,244,129.24,Homa Bay,2025-10-22T22:26:09.150092,Standard,True,True,2025-11-10T22:26:09.150092
+372,62,Daniel Koech,Watermelons,Fruits,684,46.89,Eldoret,2025-10-20T22:26:09.150092,Premium,False,True,2025-11-11T22:26:09.150169
+373,47,Agnes Nyong'o,Beans,Legumes,144,177.88,Kericho,2025-11-06T22:26:09.150169,Standard,True,True,2025-11-13T22:26:09.150169
+374,12,Michael Otieno,Sorghum,Grains,293,64.31,Voi,2025-11-04T22:26:09.150169,Premium,False,True,2025-11-10T22:26:09.150169
+375,81,Agnes Nyong'o,Oranges,Fruits,964,76.55,Kakamega,2025-11-08T22:26:09.150169,Standard,False,True,2025-11-15T22:26:09.150169
+376,6,James Mwangi,Rice,Grains,419,89.05,Kakamega,2025-11-03T22:26:09.150169,Standard,False,True,2025-11-11T22:26:09.150169
+377,37,Catherine Auma,Kale,Vegetables,661,34.0,Malindi,2025-11-12T22:26:09.150169,Grade B,False,True,2025-11-11T22:26:09.150169
+378,11,Rose Wanjiru,Peas,Legumes,344,189.4,Garissa,2025-10-27T22:26:09.150169,Grade B,False,True,2025-11-10T22:26:09.150169
+379,72,Catherine Auma,Cowpeas,Legumes,680,106.43,Machakos,2025-11-01T22:26:09.150169,Grade A,True,True,2025-11-12T22:26:09.150169
+380,2,Joseph Karanja,Millet,Grains,327,68.32,Meru,2025-11-09T22:26:09.150169,Grade A,False,True,2025-11-16T22:26:09.150169
+381,45,Michael Otieno,Peas,Legumes,975,147.16,Machakos,2025-10-30T22:26:09.150169,Grade A,True,True,2025-11-17T22:26:09.150673
+382,76,Margaret Wairimu,Groundnuts,Legumes,107,202.96,Kericho,2025-11-17T22:26:09.150673,Grade B,True,True,2025-11-14T22:26:09.150673
+383,14,Grace Akinyi,Beans,Legumes,981,173.29,Homa Bay,2025-11-02T22:26:09.150746,Grade A,True,True,2025-11-11T22:26:09.150746
+384,99,Peter Ochieng,Carrots,Vegetables,216,76.08,Voi,2025-11-03T22:26:09.150746,Standard,True,True,2025-11-10T22:26:09.150746
+385,22,Esther Chepkemoi,Peas,Legumes,83,239.52,Kisumu,2025-10-22T22:26:09.150746,Grade B,False,True,2025-11-11T22:26:09.150746
+386,8,Sarah Njeri,Spinach,Vegetables,423,50.54,Nakuru,2025-10-20T22:26:09.150746,Standard,False,True,2025-11-17T22:26:09.150746
+387,57,Francis Omondi,Maize,Grains,695,57.58,Embu,2025-10-23T22:26:09.150746,Standard,True,True,2025-11-17T22:26:09.150746
+388,9,Agnes Nyong'o,Onions,Vegetables,25,72.33,Nyeri,2025-11-02T22:26:09.150746,Grade B,True,True,2025-11-11T22:26:09.150746
+389,94,David Kiprop,Groundnuts,Legumes,654,266.35,Kisumu,2025-11-12T22:26:09.150746,Premium,True,True,2025-11-17T22:26:09.150746
+390,4,Mary Wanjiku,Beans,Legumes,118,197.87,Nyeri,2025-11-14T22:26:09.150746,Standard,False,True,2025-11-14T22:26:09.150746
+391,57,Francis Omondi,Kale,Vegetables,103,20.11,Embu,2025-11-14T22:26:09.150746,Grade B,False,True,2025-11-16T22:26:09.150746
+392,44,Lucy Wambui,Cowpeas,Legumes,558,142.72,Nairobi,2025-11-15T22:26:09.150746,Grade A,True,True,2025-11-11T22:26:09.151251
+393,30,Agnes Nyong'o,Peas,Legumes,652,178.95,Garissa,2025-11-02T22:26:09.151251,Grade A,False,True,2025-11-15T22:26:09.151251
+394,1,James Mwangi,Maize,Grains,478,49.19,Garissa,2025-10-29T22:26:09.151324,Premium,False,True,2025-11-15T22:26:09.151324
+395,51,Joseph Karanja,Bananas,Fruits,844,63.39,Kitale,2025-10-21T22:26:09.151324,Premium,False,True,2025-11-16T22:26:09.151324
+396,41,John Kamau,Groundnuts,Legumes,359,272.47,Meru,2025-10-25T22:26:09.151324,Grade A,True,True,2025-11-13T22:26:09.151324
+397,58,Lucy Wambui,Peas,Legumes,836,140.06,Kitale,2025-11-15T22:26:09.151324,Premium,True,True,2025-11-10T22:26:09.151324
+398,46,Daniel Koech,Tomatoes,Vegetables,830,112.16,Thika,2025-11-17T22:26:09.151324,Grade A,False,True,2025-11-13T22:26:09.151324
+399,17,Samuel Kiprotich,Oranges,Fruits,106,70.69,Garissa,2025-11-13T22:26:09.151324,Grade A,True,True,2025-11-16T22:26:09.151324
+400,16,Michael Otieno,Bananas,Fruits,382,82.87,Migori,2025-11-17T22:26:09.151324,Premium,True,True,2025-11-12T22:26:09.151324
+401,32,Rose Wanjiru,Millet,Grains,589,111.47,Machakos,2025-10-31T22:26:09.151324,Grade B,False,True,2025-11-13T22:26:09.151324
+402,39,Margaret Wairimu,Potatoes,Vegetables,627,71.53,Machakos,2025-11-01T22:26:09.151324,Premium,True,True,2025-11-16T22:26:09.151324
+403,41,John Kamau,Potatoes,Vegetables,638,46.36,Meru,2025-10-25T22:26:09.151829,Standard,True,True,2025-11-16T22:26:09.151829
+404,48,Daniel Koech,Mangoes,Fruits,84,96.65,Meru,2025-10-23T22:26:09.151891,Grade A,True,True,2025-11-13T22:26:09.151891
+405,14,Grace Akinyi,Cabbage,Vegetables,211,38.48,Homa Bay,2025-11-11T22:26:09.151891,Grade B,True,True,2025-11-14T22:26:09.151891
+406,34,Esther Chepkemoi,Mangoes,Fruits,770,194.94,Machakos,2025-11-12T22:26:09.151891,Grade B,False,True,2025-11-11T22:26:09.151891
+407,59,Catherine Auma,Carrots,Vegetables,484,60.67,Nakuru,2025-11-01T22:26:09.151891,Premium,True,True,2025-11-16T22:26:09.151891
+408,12,Michael Otieno,Passion Fruits,Fruits,132,362.44,Voi,2025-10-27T22:26:09.151891,Grade A,True,True,2025-11-12T22:26:09.151891
+409,63,Sarah Njeri,Kale,Vegetables,699,24.12,Nakuru,2025-10-21T22:26:09.151891,Standard,True,True,2025-11-13T22:26:09.151891
+410,96,James Mwangi,Maize,Grains,579,49.67,Bungoma,2025-11-04T22:26:09.151891,Grade B,True,True,2025-11-14T22:26:09.151891
+411,69,John Kamau,Potatoes,Vegetables,236,65.04,Meru,2025-11-12T22:26:09.151891,Standard,False,True,2025-11-14T22:26:09.151891
+412,18,John Kamau,Passion Fruits,Fruits,272,338.23,Meru,2025-10-20T22:26:09.151891,Grade A,False,True,2025-11-10T22:26:09.151891
+413,32,Rose Wanjiru,Wheat,Grains,21,54.54,Machakos,2025-10-20T22:26:09.152396,Premium,False,True,2025-11-10T22:26:09.152396
+414,91,Grace Akinyi,Avocados,Fruits,562,278.07,Kericho,2025-11-17T22:26:09.152461,Premium,True,True,2025-11-15T22:26:09.152461
+415,10,Joseph Karanja,Millet,Grains,401,79.93,Kakamega,2025-11-06T22:26:09.152461,Standard,False,True,2025-11-12T22:26:09.152461
+416,70,Margaret Wairimu,Mangoes,Fruits,290,127.6,Meru,2025-10-26T22:26:09.152461,Grade A,True,True,2025-11-11T22:26:09.152461
+417,21,Lucy Wambui,Passion Fruits,Fruits,285,345.94,Kericho,2025-10-31T22:26:09.152461,Premium,False,True,2025-11-12T22:26:09.152461
+418,92,Esther Chepkemoi,Pineapples,Fruits,383,132.81,Kakamega,2025-11-05T22:26:09.152461,Premium,True,True,2025-11-11T22:26:09.152461
+419,90,John Kamau,Beans,Legumes,646,103.63,Kakamega,2025-10-30T22:26:09.152461,Premium,False,True,2025-11-12T22:26:09.152461
+420,95,Margaret Wairimu,Tomatoes,Vegetables,208,144.04,Kericho,2025-10-20T22:26:09.152461,Grade A,True,True,2025-11-14T22:26:09.152461
+421,33,James Mwangi,Carrots,Vegetables,304,78.87,Kericho,2025-11-03T22:26:09.152461,Standard,True,True,2025-11-13T22:26:09.152461
+422,2,Joseph Karanja,Mangoes,Fruits,686,94.85,Meru,2025-10-25T22:26:09.152461,Premium,False,True,2025-11-15T22:26:09.152461
+423,25,Esther Chepkemoi,Sorghum,Grains,833,57.1,Migori,2025-11-17T22:26:09.152461,Grade B,True,True,2025-11-17T22:26:09.152461
+424,96,James Mwangi,Green Grams,Legumes,313,178.34,Bungoma,2025-10-24T22:26:09.152461,Premium,False,True,2025-11-11T22:26:09.152461
+425,80,James Mwangi,Rice,Grains,973,98.36,Kakamega,2025-11-09T22:26:09.152461,Grade B,False,True,2025-11-15T22:26:09.152461
+426,69,John Kamau,Pineapples,Fruits,91,186.38,Meru,2025-10-25T22:26:09.152461,Standard,False,True,2025-11-16T22:26:09.152461
+427,92,Esther Chepkemoi,Millet,Grains,977,69.83,Kakamega,2025-10-30T22:26:09.152461,Premium,False,True,2025-11-15T22:26:09.152969
+428,87,Samuel Kiprotich,Sorghum,Grains,61,68.22,Kitale,2025-11-12T22:26:09.152969,Grade A,False,True,2025-11-16T22:26:09.153043
+429,32,Rose Wanjiru,Bananas,Fruits,159,61.76,Machakos,2025-10-18T22:26:09.153043,Grade A,True,True,2025-11-12T22:26:09.153043
+430,80,James Mwangi,Potatoes,Vegetables,933,59.72,Kakamega,2025-11-07T22:26:09.153043,Grade A,False,True,2025-11-15T22:26:09.153043
+431,82,Sarah Njeri,Rice,Grains,177,129.05,Kitale,2025-10-21T22:26:09.153043,Grade B,True,True,2025-11-14T22:26:09.153043
+432,69,John Kamau,Peas,Legumes,224,225.92,Meru,2025-10-26T22:26:09.153043,Grade B,False,True,2025-11-17T22:26:09.153043
+433,89,Paul Cheruiyot,Avocados,Fruits,421,210.96,Embu,2025-10-23T22:26:09.153043,Grade B,False,True,2025-11-10T22:26:09.153043
+434,86,Grace Akinyi,Rice,Grains,805,88.82,Voi,2025-10-29T22:26:09.153043,Grade B,False,True,2025-11-13T22:26:09.153043
+435,93,James Mwangi,Groundnuts,Legumes,403,204.24,Garissa,2025-10-21T22:26:09.153043,Grade A,True,True,2025-11-10T22:26:09.153043
+436,21,Lucy Wambui,Oranges,Fruits,359,97.0,Kericho,2025-10-28T22:26:09.153043,Premium,True,True,2025-11-11T22:26:09.153043
+437,88,Agnes Nyong'o,Tomatoes,Vegetables,963,135.7,Kakamega,2025-10-19T22:26:09.153043,Grade B,True,True,2025-11-17T22:26:09.153043
+438,22,Esther Chepkemoi,Maize,Grains,341,47.97,Kisumu,2025-10-24T22:26:09.153043,Grade B,False,True,2025-11-12T22:26:09.153043
+439,9,Agnes Nyong'o,Spinach,Vegetables,402,41.91,Nyeri,2025-11-06T22:26:09.153043,Premium,True,True,2025-11-17T22:26:09.153043
+440,44,Lucy Wambui,Potatoes,Vegetables,478,51.28,Nairobi,2025-10-18T22:26:09.153043,Grade A,False,True,2025-11-11T22:26:09.153043
+441,11,Rose Wanjiru,Passion Fruits,Fruits,876,391.29,Garissa,2025-11-04T22:26:09.153043,Premium,False,True,2025-11-15T22:26:09.153043
+442,23,Peter Ochieng,Beans,Legumes,656,161.17,Embu,2025-11-12T22:26:09.153043,Grade B,True,True,2025-11-17T22:26:09.153043
+443,36,Lucy Wambui,Beans,Legumes,92,152.59,Eldoret,2025-11-06T22:26:09.153043,Standard,False,True,2025-11-13T22:26:09.153043
+444,17,Samuel Kiprotich,Groundnuts,Legumes,941,172.07,Garissa,2025-11-04T22:26:09.153043,Grade A,True,True,2025-11-11T22:26:09.153043
+445,40,Michael Otieno,Bananas,Fruits,714,63.39,Meru,2025-10-19T22:26:09.153043,Premium,True,True,2025-11-12T22:26:09.153043
+446,13,Agnes Nyong'o,Beans,Legumes,309,112.53,Kericho,2025-11-05T22:26:09.153043,Grade A,False,True,2025-11-10T22:26:09.153043
+447,89,Paul Cheruiyot,Carrots,Vegetables,875,56.52,Embu,2025-10-25T22:26:09.153043,Grade B,False,True,2025-11-12T22:26:09.153043
+448,62,Daniel Koech,Pineapples,Fruits,442,129.61,Eldoret,2025-11-06T22:26:09.153043,Grade A,True,True,2025-11-14T22:26:09.153043
+449,74,Francis Omondi,Sorghum,Grains,967,36.77,Nyeri,2025-11-09T22:26:09.153551,Standard,False,True,2025-11-13T22:26:09.153617
+450,30,Agnes Nyong'o,Green Grams,Legumes,572,237.79,Garissa,2025-11-01T22:26:09.153617,Grade B,True,True,2025-11-12T22:26:09.153617
+451,34,Esther Chepkemoi,Oranges,Fruits,832,62.86,Machakos,2025-11-11T22:26:09.153617,Grade A,True,True,2025-11-15T22:26:09.153617
+452,38,Jane Muthoni,Oranges,Fruits,443,60.02,Nyeri,2025-11-05T22:26:09.153617,Grade A,False,True,2025-11-12T22:26:09.153617
+453,61,Esther Chepkemoi,Passion Fruits,Fruits,972,380.44,Naivasha,2025-10-19T22:26:09.153617,Grade A,True,True,2025-11-13T22:26:09.153617
+454,79,David Kiprop,Mangoes,Fruits,924,116.77,Eldoret,2025-11-13T22:26:09.153617,Grade A,True,True,2025-11-14T22:26:09.153617
+455,65,Agnes Nyong'o,Passion Fruits,Fruits,195,347.54,Kitale,2025-11-12T22:26:09.153617,Grade B,True,True,2025-11-16T22:26:09.153617
+456,66,John Kamau,Watermelons,Fruits,615,30.81,Malindi,2025-10-26T22:26:09.153617,Grade B,False,True,2025-11-13T22:26:09.153617
+457,67,Esther Chepkemoi,Beans,Legumes,866,176.56,Nakuru,2025-11-03T22:26:09.153617,Grade B,False,True,2025-11-13T22:26:09.153617
+458,20,Esther Chepkemoi,Beans,Legumes,991,128.06,Thika,2025-10-31T22:26:09.153617,Premium,False,True,2025-11-15T22:26:09.153617
+459,3,Grace Akinyi,Sorghum,Grains,552,38.51,Machakos,2025-10-26T22:26:09.153617,Grade A,True,True,2025-11-12T22:26:09.153617
+460,64,David Kiprop,Maize,Grains,192,55.95,Migori,2025-10-25T22:26:09.153617,Standard,True,True,2025-11-16T22:26:09.153617
+461,91,Grace Akinyi,Beans,Legumes,492,108.91,Kericho,2025-10-28T22:26:09.153617,Premium,True,True,2025-11-17T22:26:09.153617
+462,15,David Kiprop,Beans,Legumes,286,138.64,Bungoma,2025-10-21T22:26:09.153617,Standard,True,True,2025-11-17T22:26:09.153617
+463,66,John Kamau,Millet,Grains,844,68.02,Malindi,2025-11-03T22:26:09.153617,Grade B,False,True,2025-11-11T22:26:09.153617
+464,44,Lucy Wambui,Sorghum,Grains,578,40.67,Nairobi,2025-11-08T22:26:09.153617,Standard,False,True,2025-11-16T22:26:09.153617
+465,43,Peter Ochieng,Wheat,Grains,231,83.67,Kericho,2025-10-18T22:26:09.153617,Grade B,False,True,2025-11-13T22:26:09.153617
+466,78,Jane Muthoni,Green Grams,Legumes,334,163.93,Nairobi,2025-10-18T22:26:09.154127,Standard,True,True,2025-11-12T22:26:09.154127
+467,75,Agnes Nyong'o,Green Grams,Legumes,982,194.65,Nyeri,2025-10-31T22:26:09.154127,Standard,False,True,2025-11-15T22:26:09.154127
+468,55,Agnes Nyong'o,Maize,Grains,902,68.16,Eldoret,2025-10-19T22:26:09.154240,Standard,True,True,2025-11-12T22:26:09.154240
+469,73,Michael Otieno,Cowpeas,Legumes,65,111.78,Kitale,2025-11-08T22:26:09.154240,Grade A,True,True,2025-11-11T22:26:09.154240
+470,4,Mary Wanjiku,Groundnuts,Legumes,825,229.11,Nyeri,2025-11-15T22:26:09.154240,Standard,False,True,2025-11-13T22:26:09.154240
+471,15,David Kiprop,Spinach,Vegetables,47,42.46,Bungoma,2025-11-06T22:26:09.154240,Grade B,True,True,2025-11-17T22:26:09.154240
+472,87,Samuel Kiprotich,Cabbage,Vegetables,878,42.19,Kitale,2025-11-05T22:26:09.154240,Grade A,False,True,2025-11-10T22:26:09.154240
+473,83,Catherine Auma,Tomatoes,Vegetables,840,109.8,Nakuru,2025-10-30T22:26:09.154240,Standard,False,True,2025-11-15T22:26:09.154240
+474,51,Joseph Karanja,Oranges,Fruits,167,62.17,Kitale,2025-10-27T22:26:09.154240,Grade A,True,True,2025-11-15T22:26:09.154240
+475,15,David Kiprop,Spinach,Vegetables,504,67.8,Bungoma,2025-10-28T22:26:09.154240,Grade B,False,True,2025-11-10T22:26:09.154240
+476,28,James Mwangi,Maize,Grains,977,70.75,Meru,2025-10-22T22:26:09.154240,Grade B,True,True,2025-11-12T22:26:09.154240
+477,13,Agnes Nyong'o,Sorghum,Grains,961,64.67,Kericho,2025-11-16T22:26:09.154240,Standard,False,True,2025-11-11T22:26:09.154240
+478,1,James Mwangi,Peas,Legumes,502,120.2,Garissa,2025-11-12T22:26:09.154240,Grade A,True,True,2025-11-17T22:26:09.154240
+479,36,Lucy Wambui,Pineapples,Fruits,474,143.6,Eldoret,2025-10-29T22:26:09.154240,Grade A,False,True,2025-11-10T22:26:09.154240
+480,31,Catherine Auma,Oranges,Fruits,191,116.66,Thika,2025-11-17T22:26:09.154240,Premium,False,True,2025-11-14T22:26:09.154240
+481,27,Rose Wanjiru,Passion Fruits,Fruits,87,301.45,Voi,2025-11-06T22:26:09.154240,Premium,False,True,2025-11-16T22:26:09.154240
+482,70,Margaret Wairimu,Cowpeas,Legumes,790,123.47,Meru,2025-10-19T22:26:09.154240,Grade B,True,True,2025-11-12T22:26:09.154240
+483,39,Margaret Wairimu,Onions,Vegetables,54,82.4,Machakos,2025-11-01T22:26:09.154240,Standard,False,True,2025-11-12T22:26:09.154240
+484,61,Esther Chepkemoi,Peas,Legumes,41,134.13,Naivasha,2025-10-27T22:26:09.154240,Standard,True,True,2025-11-17T22:26:09.154240
+485,83,Catherine Auma,Cowpeas,Legumes,845,140.59,Nakuru,2025-11-05T22:26:09.154240,Grade A,True,True,2025-11-17T22:26:09.154240
+486,63,Sarah Njeri,Millet,Grains,862,69.03,Nakuru,2025-11-05T22:26:09.154240,Premium,True,True,2025-11-13T22:26:09.154240
+487,48,Daniel Koech,Watermelons,Fruits,88,44.52,Meru,2025-10-24T22:26:09.154240,Premium,True,True,2025-11-10T22:26:09.154240
+488,64,David Kiprop,Potatoes,Vegetables,503,50.36,Migori,2025-11-01T22:26:09.154748,Grade A,True,True,2025-11-14T22:26:09.154748
+489,50,Margaret Wairimu,Potatoes,Vegetables,953,56.42,Machakos,2025-11-03T22:26:09.154811,Grade B,False,True,2025-11-16T22:26:09.154811
+490,47,Agnes Nyong'o,Spinach,Vegetables,612,67.02,Kericho,2025-11-07T22:26:09.154811,Grade B,True,True,2025-11-11T22:26:09.154811
+491,93,James Mwangi,Sorghum,Grains,780,58.86,Garissa,2025-10-20T22:26:09.154811,Standard,False,True,2025-11-11T22:26:09.154811
+492,34,Esther Chepkemoi,Oranges,Fruits,42,84.72,Machakos,2025-10-21T22:26:09.154811,Grade A,False,True,2025-11-17T22:26:09.154811
+493,5,Jane Muthoni,Millet,Grains,719,100.79,Homa Bay,2025-10-23T22:26:09.154811,Standard,True,True,2025-11-15T22:26:09.154811
+494,85,Francis Omondi,Onions,Vegetables,550,73.55,Garissa,2025-11-04T22:26:09.154811,Grade B,True,True,2025-11-12T22:26:09.154811
+495,37,Catherine Auma,Watermelons,Fruits,944,54.86,Malindi,2025-11-13T22:26:09.154811,Standard,False,True,2025-11-14T22:26:09.154811
+496,81,Agnes Nyong'o,Cabbage,Vegetables,311,40.74,Kakamega,2025-11-15T22:26:09.154811,Standard,False,True,2025-11-12T22:26:09.154811
+497,82,Sarah Njeri,Tomatoes,Vegetables,270,113.33,Kitale,2025-11-03T22:26:09.154811,Grade B,True,True,2025-11-13T22:26:09.154811
+498,81,Agnes Nyong'o,Pineapples,Fruits,677,177.1,Kakamega,2025-11-05T22:26:09.154811,Standard,True,True,2025-11-15T22:26:09.154811
+499,40,Michael Otieno,Green Grams,Legumes,215,186.09,Meru,2025-10-26T22:26:09.154811,Grade B,False,True,2025-11-16T22:26:09.154811
+500,71,John Kamau,Spinach,Vegetables,719,52.24,Garissa,2025-11-17T22:26:09.154811,Premium,False,True,2025-11-12T22:26:09.154811

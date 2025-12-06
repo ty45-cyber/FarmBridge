@@ -1,0 +1,33 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: farmbridge
+      POSTGRES_USER: fb_user
+      POSTGRES_PASSWORD: fb_password
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  backend:
+    build: ./backend_dart
+    ports:
+      - "8080:8080"
+
+  cpp_core:
+    build: ./cpp_core
+    ports:
+      - "50051:50051"
+    depends_on:
+      - backend
+
+  frontend_flutter:
+    build: ./frontend_flutter
+    command: ["sleep", "infinity"]
+    volumes:
+      - ./frontend_flutter:/workspace/frontend_flutter
+
+volumes:
+  pgdata:
